@@ -1,4 +1,4 @@
-<h1>Classic Music for Colobot</h1>
+<h1>Original Music for Colobot</h1>
 This repository contains little mod that changes new Colobot: Gold Edition music into original Colobot music.
 
 <h2>How to install</h2>
